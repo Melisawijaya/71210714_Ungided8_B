@@ -1,0 +1,15 @@
+Jawaban:
+
+-Dari gelas A mengalir sebanyak 500 Liter ke gelas B
+
+-Dari gelas B mengalir sebanyak 150 Liter ke gelas C
+
+-Dari gelas C mengalir sebanyak 0 Liter ke gelas D
+
+
+Keterangan:
+Diketahui bahwa gelas A, B, C, dan D masing-masing memiliki kapasitas 1000 Liter, 700 Liter, 300 Liter, dan 100 Liter. Lalu terdapat lubang dibagian tepi tengah gelas pada gelas A, B, dan C. Sehingga ketika gelas A dituangkan 1000 Liter maka, dari gelas A akan mengalirkan 500 Liter ke gelas B (1000 L - 500 L).
+
+Lalu dari gelas B akan mengalirkan air sebanyak 150 Liter ke gelas C, karena kapasitas pada gelas B yaitu 700 Liter maka setengahnya yaitu 350 Liter, sehingga ketika gelas  B diberi air 500 Liter maka gelas B akan mengalirkan air 150 Liter ke gelas C karena 500 L - 350 L.
+
+Lalu gelas C memiliki kapasitas 300 Liter maka setengahnya yaitu 150 Liter, sehingga ketika dialiri air sebanyak 150 Liter dari gelas B maka, Gelas C akan menampung semua air yang dituangkan dari gelas B, sehingga gelas C tidak mengalirkan air ke gelas D dikarenakan debit air setara dengan lubang dibagian tengah tepi gelas C.
